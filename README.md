@@ -56,7 +56,7 @@ where `x_i` and `y_i` are the individual elements on which the rotation is appli
 ## Usage
 
 ```javascript
-import drot from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-drot@esm/index.mjs';
+import drot from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-drot@v0.0.1-esm/index.mjs';
 ```
 
 #### drot( N, x, strideX, y, strideY, c, s )
@@ -178,7 +178,7 @@ drot.ndarray( 3, x, 2, 1, y, 2, 1, 0.8, 0.6 );
 <script type="module">
 
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-discrete-uniform@esm/index.mjs';
-import drot from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-drot@esm/index.mjs';
+import drot from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-drot@v0.0.1-esm/index.mjs';
 
 var opts = {
     'dtype': 'float64'
