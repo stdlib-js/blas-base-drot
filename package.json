@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/blas-base-drot",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Apply a plane rotation.",
   "license": "Apache-2.0",
   "author": {
@@ -42,7 +42,7 @@
   },
   "dependencies": {
     "@stdlib/assert-is-error": "^0.2.1",
-    "@stdlib/blas-base-shared": "github:stdlib-js/blas-base-shared#main",
+    "@stdlib/blas-base-shared": "^0.0.1",
     "@stdlib/napi-argv": "^0.2.1",
     "@stdlib/napi-argv-double": "^0.2.1",
     "@stdlib/napi-argv-int64": "^0.2.1",
