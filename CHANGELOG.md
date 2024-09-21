@@ -4,7 +4,17 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-09-01)
+## Unreleased (2024-09-21)
+
+<section class="features">
+
+### Features
+
+-   [`57d03ad`](https://github.com/stdlib-js/stdlib/commit/57d03ad4821f87e6ea471794cd6c4a60adc40d86) - add C `ndarray` implementation for `blas/base/srot` and `blas/base/drot` [(#2896)](https://github.com/stdlib-js/stdlib/pull/2896)
+
+</section>
+
+<!-- /.features -->
 
 <section class="commits">
 
@@ -12,6 +22,7 @@
 
 <details>
 
+-   [`57d03ad`](https://github.com/stdlib-js/stdlib/commit/57d03ad4821f87e6ea471794cd6c4a60adc40d86) - **feat:** add C `ndarray` implementation for `blas/base/srot` and `blas/base/drot` [(#2896)](https://github.com/stdlib-js/stdlib/pull/2896) _(by Aman Bhansali, Athan Reines)_
 -   [`2777e4b`](https://github.com/stdlib-js/stdlib/commit/2777e4be161869d09406e3b17947d24c64b47af2) - **bench:** resolve lint errors in benchmarks _(by Athan Reines)_
 
 </details>
@@ -24,8 +35,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Aman Bhansali
 -   Athan Reines
 
 </section>
