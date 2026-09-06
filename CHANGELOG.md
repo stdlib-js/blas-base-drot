@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-07-19)
+## Unreleased (2026-09-06)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`497e0b1`](https://github.com/stdlib-js/stdlib/commit/497e0b167327db3e170e7cdeda73549202fc9fe0) - **test:** migrate `blas/base/drot` to ULP-based assertions [(#15025)](https://github.com/stdlib-js/stdlib/pull/15025) _(by Athan Reines)_
 -   [`1cccd61`](https://github.com/stdlib-js/stdlib/commit/1cccd611ff6c4edd77ecf39f8f684b583499d379) - **bench:** use string interpolation in `blas/base/drot` [(#10295)](https://github.com/stdlib-js/stdlib/pull/10295) _(by Om-A-osc)_
 
 </details>
@@ -24,8 +25,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Om-A-osc
 
 </section>
